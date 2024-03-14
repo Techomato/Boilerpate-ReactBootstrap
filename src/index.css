@@ -1,0 +1,12 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+.App {
+  width: 100%;
+}
+
+.dashboard-left-side-navbar {
+  max-height: 230px;
+  overflow: scroll;
+}
